@@ -1,0 +1,8 @@
+requests
+stem
+geoip2
+qrcode
+pillow
+pycryptodome
+faker
+nmap
